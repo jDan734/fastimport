@@ -1,0 +1,9 @@
+{
+  "name": "fastimport",
+  "version": "1.0.0",
+  "description": "Fastimport help import modules nodejs",
+  "main": "index.js",
+  "keywords": ["fast", "import", "nodejs", "fastimport", "require", "javascript"],
+  "author": "jDan734",
+  "license": "ISC"
+}
